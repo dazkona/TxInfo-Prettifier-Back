@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		/*"outFile": "rel/index.js",*/
+		"outDir": "./build",
+		"sourceMap": true,
+		"types": [
+			"express", "request", "jest"
+		]
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules", "**/*.spec.ts", "src/old.index.ts"]
+}
