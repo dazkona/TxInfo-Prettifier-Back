@@ -133,3 +133,4 @@ TXINFO/*
 build/*
 src/private/private.json
 _doc/*
+.vscode/

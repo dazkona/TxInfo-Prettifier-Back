@@ -1,3 +1,5 @@
+# PAUSED UNTIL ABLE TO FIND A NEW FREE RPC PROVIDER LIKE ARCHIVENODE.IO
+
 ## Backend: Node.js + TypeScript + MongoDB + Ethers
 - Using official https://archivenode.io/ RPC node to make calls with EtherJS to get transactions detailed info.
 - Using official https://etherscan.io/ API to obtain the ABI from smart contracts in the case are available.
